@@ -1,3 +1,7 @@
+This is a simple script to add events in Google calendar
+This creates event "Day-1", "Day-2" and so on for the specified date range
+I created this automation to keep track of my 60 day preparation window for placements
+
 To use this script, follow these steps:
 
 Set up Google Calendar API:
